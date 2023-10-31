@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "rsa.h": "c",
+        "des.h": "c",
+        "cstdlib": "c"
+    }
+}

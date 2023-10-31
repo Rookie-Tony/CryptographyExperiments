@@ -1,0 +1,7 @@
+*.pdf
+*.png
+*.drawio
+*.docx
+*.doc
+*.zip
+/Final/openssl-openssl-3.0.3

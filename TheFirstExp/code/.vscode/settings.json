@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "stdlib.h": "c",
+        "basefunc.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "iostream": "cpp"
+    }
+}
